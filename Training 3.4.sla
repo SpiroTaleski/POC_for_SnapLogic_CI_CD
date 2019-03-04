@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Training 3.4"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "fJnoQ8IW/dHzO52/aNkDug==",
+                "sym_key": "iiAy5fJCDeuP7JnTR54HKcnAsSIuk3yJBXY5g4tm3qP59rOUXjEJN8P0s9oVTsWKS1ZkhMO8IcenGRnn8w530UUM0/PtxUF4Ufq1LzC+xIrjpebU/+SbxessRB/LSBHzQ/SDOidzdMoso9KWdf2CU6mugODvXvp6KlyBt/03VyJzyK0sqb59nS2rB/iKNUPcmwWMcyC9/d91JZgWntn6ZNYMYgvyqmJcDkJhRBR/9utpZW1ap3as6PdihrNgFSbAeJ7dZ0A/YQDXSQ+IIlZSvefV2loJfYyJ3AmTxWuNSPieTHuFbQKT0uQcbQRGZBllw93KcsQCoK0A1Th3va0ilQ==",
+                "value": "CzdlUVuAjTgPPggGITN/pg=="
+            },
+            "username": {
+                "value": "Jovan12345"
+            }
+        },
+        "view_serial": 100
+    }
+}
