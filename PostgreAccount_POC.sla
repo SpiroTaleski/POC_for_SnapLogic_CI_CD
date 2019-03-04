@@ -1,0 +1,80 @@
+{
+    "class_id": "com-snaplogic-snap-api-sql-accounts-postgresdatabaseaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "PostgreAccount_POC"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "advancedProperties": {
+                "value": {
+                    "acquireIncrement": {
+                        "value": 1
+                    },
+                    "autoCommit": {
+                        "value": true
+                    },
+                    "batchSize": {
+                        "value": 50
+                    },
+                    "checkoutTimeout": {
+                        "value": 10000
+                    },
+                    "fetchSize": {
+                        "value": 100
+                    },
+                    "idleConnectionTestPeriod": {
+                        "value": 5
+                    },
+                    "maxIdleTime": {
+                        "value": 30
+                    },
+                    "maxPoolSize": {
+                        "value": 50
+                    },
+                    "minPoolSize": {
+                        "value": 0
+                    },
+                    "retryAttempts": {
+                        "value": 0
+                    },
+                    "urlProperties": {
+                        "value": []
+                    }
+                }
+            },
+            "connectionProperties": {
+                "value": {
+                    "databaseName": {
+                        "value": "test_POC"
+                    },
+                    "hostname": {
+                        "value": "localhost"
+                    },
+                    "password": {
+                        "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                        "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                        "sym_iv": "4Ro6oKXIoeFWOKoXsvICGA==",
+                        "sym_key": "fxUB8G72UW5V5p9zMsr7Ls3pn36m480d0uRqazvy2sB4eFb3jwDicxT4eINopnxhB/mcPFNMbHY6ScT1GTmJ5VXvsGIAdF8Z7StuuxyhGRAL9SiH8w55fvC9RcEQCt8hKMm0G5hBHBGzNwUmU6dCo+urOdcfEXpQl+csxcuPqG2HCiipx5v6w0nuHu0AzacEwtPlZqouqelWCqYQEFm+4yIfMljVy9VFDKSgq1NdLgYVr+oe9bVy+VHUwdUld+Q8aHmFFJGmxTylpcbecrSvZBMhymbBMgrVyASZ/qhQeOxNlEGioBNgijuHv3htddD/s6AfSRsMcyXKKE+Mx9/ydw==",
+                        "value": "ALMB9s1olrYwv4CiY1i0Jw=="
+                    },
+                    "portNumber": {
+                        "value": 5432
+                    },
+                    "username": {
+                        "value": "test"
+                    }
+                }
+            }
+        },
+        "view_serial": 100
+    }
+}
